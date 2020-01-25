@@ -1,7 +1,7 @@
 # Module1_Markdown_Practice
 
 # Database
-It is a collection of data
+A database is a collection of data
 
 ## types of databases
 1. Centralised database
